@@ -6,7 +6,7 @@
 - 🌱 Actively learning **Java, Spring Boot, and Backend Development**
 - 💬 Ask me about **Java, Spring Boot, React.js, and Web Development**
 - 📫 How to reach me: **luongtandat512@gmail.com**
-- 👨‍💻 All of my projects are available on **[LinkedIn](https://www.linkedin.com/in/luongtandat/)**
+- 👨‍💻 All of my projects are available on **[Github](https://github.com/luongtandat03)**
 
 ---
 
